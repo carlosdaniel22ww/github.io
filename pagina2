@@ -3,7 +3,6 @@
 <title>pagina1</title>
 </head>
 <boby>
-<h1>pagina principal</h1>
-<a href="pagina2.html">ir a pagina2</a>
+<a href="index.html">ir a pagina principal</a>
 </boby>
 </html>
